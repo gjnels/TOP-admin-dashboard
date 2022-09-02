@@ -74,8 +74,7 @@ button:active {
 }
 
 .sidebar li:hover {
-  background-color: #fff;
-  color: var(--color-main);
+  background-color: rgba(255, 255, 255, 0.2);
 }
 
 .sidebar .icon {
